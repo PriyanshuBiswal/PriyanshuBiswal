@@ -2,7 +2,7 @@
 - 👀 I’m interested in programmig
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on web development work
-- 📫 How to reach me https://www.linkedin.com/in/priyanshu-sekhar-biswal-6b071b25b/
+- 📫 How to reach me www.linkedin.com/in/PriyanshuSekharBiswal
 
 <!---
 PriyanshuBiswal/PriyanshuBiswal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
