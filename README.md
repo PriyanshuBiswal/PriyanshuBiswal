@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PriyanshuBiswal
 - 👀 I’m interested in programmig
-- 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on web development work
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on data analyst work
 - 📫 How to reach me www.linkedin.com/in/PriyanshuSekharBiswal
 
 <!---
